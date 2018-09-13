@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">一键报修</string>
+    <string name="str_recoder_normal">按住 说话</string>
+    <string name="str_recorder_recording">松开 结束</string>
+    <string name="str_recorder_want_cancel">松开手指，取消发送</string>
+    <string name="str_dialog_want_cancel">手指上滑，取消发送</string>
+    <string name="str_dialog_want_send">手指上滑，取消发送</string>
+    <string name="str_dialog_time_short">录音时间过短</string>
+
+    <string name="type_bgzy">办公桌椅</string>
+    <string name="type_xyj">洗衣机</string>
+    <string name="type_kt">空调</string>
+    <string name="type_dsj">电视机</string>
+    <string name="type_dyj">打印机</string>
+    <string name="type_dn">电脑</string>
+    <string name="type_sg">水管</string>
+    <string name="type_dj">灯具</string>
+
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_footer_hint_normal">点击查看更多</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_last_time">上次更新时间</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">玩命加载中...</string>
+</resources>

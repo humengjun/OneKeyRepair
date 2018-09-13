@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/pop_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30px"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#000000"
+            android:paddingLeft="20px"
+            android:paddingBottom="25px"
+            android:paddingTop="25px"
+            android:text="选择图片方式"
+            android:textColor="#ffffff"
+            android:textSize="50px" />
+
+        <Button
+            android:id="@+id/btn_selectPhoto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/fabu_btn_press_style"
+            android:gravity="center_vertical"
+            android:paddingBottom="40px"
+            android:paddingTop="40px"
+            android:paddingLeft="20px"
+            android:text="选择图片"
+            android:textColor="#000000"
+            android:textSize="50px" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/colorSBlack" />
+
+        <Button
+            android:id="@+id/btn_takePhoto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/fabu_btn_press_style"
+            android:gravity="center_vertical"
+            android:paddingBottom="40px"
+            android:paddingLeft="20px"
+            android:paddingTop="40px"
+            android:text="拍照"
+            android:textColor="#000000"
+            android:textSize="50px" />
+    </LinearLayout>
+
+</LinearLayout>

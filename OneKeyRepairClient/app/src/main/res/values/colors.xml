@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorYellow">#FFCE25</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#00FFC5</color>
+    <color name="colorSBlue">#3AB2FF</color>
+    <color name="colorSBlack">#EEEEEE</color>
+    <color name="colorGreen">#39FF00</color>
+    <color name="colorSelectSocial_btn_2">#3AB2FF</color>
+
+    <color name="colorRegisterButton">#d6d7d7</color>
+</resources>

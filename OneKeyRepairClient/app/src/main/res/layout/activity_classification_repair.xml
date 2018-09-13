@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    android:orientation="vertical"
+    tools:context="wit.hmj.onekeyrepair.classificationrepair.ClassificationRepairActivity">
+
+    <include
+        layout="@layout/header_back"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:padding="10dp"
+        android:textSize="25sp"
+        android:text="所有报修服务"
+        android:background="@color/colorSBlack"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <GridView
+        android:layout_marginTop="30dp"
+        android:id="@+id/gridView"
+        android:numColumns="4"
+        android:padding="5dp"
+        android:verticalSpacing="30dp"
+        android:horizontalSpacing="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></GridView>
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/vv1" android:duration="100"/>
+    <item android:drawable="@mipmap/vv2" android:duration="100"/>
+    <item android:drawable="@mipmap/vv3" android:duration="100"/>
+    <item android:drawable="@mipmap/vv4" android:duration="100"/>
+    <item android:drawable="@mipmap/vv5" android:duration="100"/>
+    <item android:drawable="@mipmap/vv6" android:duration="100"/>
+    <item android:drawable="@mipmap/vv7" android:duration="100"/>
+</animation-list>
